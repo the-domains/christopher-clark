@@ -6,24 +6,29 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Follow me on Twitter!'
-datePublished: '2016-04-20T03:03:42.065Z'
-dateModified: '2016-04-20T03:02:42.565Z'
+datePublished: '2016-04-20T03:05:32.353Z'
+dateModified: '2016-04-20T03:05:29.280Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-20-contact-me.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-contact-me.md
-published: true
 url: contact-me/index.html
 _type: Article
 
 ---
 [Follow me on Twitter!][0]
 
-Like my Facebook Page!
+[Like my Facebook Page!][1]
+
+[Email me!][2]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ab51d1f-c660-4153-9933-540be091e8c3.jpg)
 
 [0]: https://twitter.com/wordyprop
+[1]: https://www.facebook.com/thehummingblade/
+[2]: mailto:cg@thehummingblade.com
