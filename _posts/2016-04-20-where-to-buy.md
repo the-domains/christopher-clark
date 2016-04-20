@@ -5,11 +5,13 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: You can buy The Humming Blade in print or on your favorite device.
-datePublished: '2016-04-20T03:16:59.130Z'
-dateModified: '2016-04-20T03:16:56.930Z'
+description: 'You can buy The Humming Blade in print or on your favorite device. '
+datePublished: '2016-04-20T03:23:58.892Z'
+dateModified: '2016-04-20T03:23:44.475Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-20-where-to-buy.md
 published: true
 authors: []
@@ -24,14 +26,11 @@ _type: Article
 ---
 You can buy _The Humming Blade _in print or on your favorite device.__
 
-[Softcover][0]  
+[Softcover][0]
+
 [Hardcover][1]
 
-Ebook Options:
-
-* [Barnes and Noble][2]
-* [IBooks][3]
-* [Amazon][4]
+Ebook: [Barnes and Noble][2][IBooks][3][Amazon][4]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69ccaefd-8970-4d40-b075-df2a040e1ba8.jpg)
 
 [0]: http://www.lulu.com/shop/christopher-clark/the-humming-blade/paperback/product-22597138.html
