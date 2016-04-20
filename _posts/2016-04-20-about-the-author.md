@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I'm Chris. I write books, but that's really only a small part of it."
-datePublished: '2016-04-20T03:00:59.374Z'
-dateModified: '2016-04-20T03:00:48.707Z'
+datePublished: '2016-04-20T03:18:09.921Z'
+dateModified: '2016-04-20T03:18:05.909Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-about-the-author.md
