@@ -1,6 +1,6 @@
 name: Christopher Clark
 favicon: null
-layout_spectrum: 0.92922
+layout_spectrum: 0.2164
 typography_spectrum: 0.68981
 title: Official site of fantasy author Christopher Clark
 cta:
@@ -22,8 +22,8 @@ color:
     - '#fefefe'
     - '#5a7c83'
     - '#b2c1c5'
-  brandStrength: 0.09092897130176425
-  lightness: 0.6821581439580768
-  saturation: 0.08430784055963159
-  rhythmicContrast: 0.20339964097365737
+  brandStrength: 0.0625
+  lightness: 0.8125
+  saturation: 0.0625
+  rhythmicContrast: 0.25
 purpose: []
