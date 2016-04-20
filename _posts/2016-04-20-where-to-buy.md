@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: You can buy The Humming Blade in print or on your favorite device.
-datePublished: '2016-04-20T02:59:03.612Z'
-dateModified: '2016-04-20T02:58:45.636Z'
+datePublished: '2016-04-20T03:08:52.227Z'
+dateModified: '2016-04-20T03:06:57.759Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-20-where-to-buy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-where-to-buy.md
-published: true
 url: where-to-buy/index.html
 _type: Article
 
