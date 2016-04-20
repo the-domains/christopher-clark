@@ -4,8 +4,15 @@
         <description><![CDATA[Official site of fantasy author Christopher Clark]]></description>
         <link>https://thegrid.ai/christopher-clark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 03:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 03:19:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/christopher-clark/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About the Author]]></title>
+            <description><![CDATA[<p>I'm Chris. I write books, but that's really only a small part of it.</p>]]></description>
+            <link>https://thegrid.ai/christopher-clark/about-the-author/index.html</link>
+            <guid isPermaLink="false">7dac55ce-c47b-40cb-8fc5-431f2c52135a</guid>
+            <pubDate>Wed, 20 Apr 2016 03:18:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Where to Buy]]></title>
             <description><![CDATA[<p>You can buy The Humming Blade in print or on your favorite device.</p>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/christopher-clark/contact-me/index.html</link>
             <guid isPermaLink="false">03a7aa89-3127-4835-a409-759823b7e165</guid>
             <pubDate>Wed, 20 Apr 2016 03:08:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About the Author]]></title>
-            <description><![CDATA[<p>I'm Chris. I write books, but that's really only a small part of it.</p>]]></description>
-            <link>https://thegrid.ai/christopher-clark/about-the-author/index.html</link>
-            <guid isPermaLink="false">7dac55ce-c47b-40cb-8fc5-431f2c52135a</guid>
-            <pubDate>Wed, 20 Apr 2016 03:00:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Special Thanks]]></title>
