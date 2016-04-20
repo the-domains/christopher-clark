@@ -4,11 +4,18 @@
         <description><![CDATA[Official site of fantasy author Christopher Clark]]></description>
         <link>https://thegrid.ai/christopher-clark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 17:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 01:50:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/christopher-clark/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[About the Author]]></title>
+            <description><![CDATA[<p>I'm Chris. I write books, but that's really only a small part of it.</p>]]></description>
+            <link>https://thegrid.ai/christopher-clark/about-the-author/index.html</link>
+            <guid isPermaLink="false">7dac55ce-c47b-40cb-8fc5-431f2c52135a</guid>
+            <pubDate>Wed, 20 Apr 2016 01:49:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[First Post!]]></title>
-            <description><![CDATA[<article><h1>First Post!</h1><p>This is the first post on the new site for Christopher Clark! Here you will find information about his debut novel, The Humming Blade, as well as information about his YouTube channel.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fea317dc-ec75-4c92-a14a-4c1085d0e513.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fea317dc-ec75-4c92-a14a-4c1085d0e513.jpg">]]></description>
             <link>https://thegrid.ai/christopher-clark/first-post/index.html</link>
             <guid isPermaLink="false">2617bc13-58ea-4350-857c-be1dfe967253</guid>
             <pubDate>Thu, 14 Apr 2016 17:51:14 GMT</pubDate>
