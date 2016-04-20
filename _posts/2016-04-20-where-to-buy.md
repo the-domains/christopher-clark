@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: You can buy The Humming Blade in print or on your favorite device.
-datePublished: '2016-04-20T03:08:52.227Z'
-dateModified: '2016-04-20T03:06:57.759Z'
+datePublished: '2016-04-20T03:16:59.130Z'
+dateModified: '2016-04-20T03:16:56.930Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-where-to-buy.md
@@ -24,8 +24,7 @@ _type: Article
 ---
 You can buy _The Humming Blade _in print or on your favorite device.__
 
-[Softcover][0]
-
+[Softcover][0]  
 [Hardcover][1]
 
 Ebook Options:
