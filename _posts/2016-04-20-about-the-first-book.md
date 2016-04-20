@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Aah, the book. Everyone wants to know about the book. Well, I'll tell you what I can, straight from the source. The first thing that you should know is that, well, it's not out yet. But soon! I'm planning on releasing it independently to Amazon and other ebook publishers. Once I have a decent following, we'll look at a print publication somewhere down the line. I'll also be using this blog to post excerpts! "
-datePublished: '2016-04-20T02:59:31.820Z'
-dateModified: '2016-04-20T02:59:15.335Z'
+description: "Aah, the book. Everyone wants to know about the book. Well, I'll tell you what I can, straight from the source. The first thing that you should know is that, well, it's not out yet. But soon! I'm planning on releasing it independently to Amazon and other ebook publishers. Once I have a decent following, we'll look at a print publication somewhere down the line. I'll also be using this blog to post excerpts!"
+datePublished: '2016-04-20T03:12:48.772Z'
+dateModified: '2016-04-20T03:12:40.151Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-about-the-first-book.md
@@ -22,7 +22,8 @@ url: about-the-first-book/index.html
 _type: Article
 
 ---
-Aah, the book. Everyone wants to know about the book. Well, I'll tell you what I can, straight from the source. The first thing that you should know is that, well, it's not out yet. But soon! I'm planning on releasing it independently to Amazon and other ebook publishers. Once I have a decent following, we'll look at a print publication somewhere down the line. I'll also be using this blog to post excerpts! 
+Aah, the book. Everyone wants to know about the book. Well, I'll tell you what I can, straight from the source. The first thing that you should know is that, well, it's not out yet. But soon! I'm planning on releasing it independently to Amazon and other ebook publishers. Once I have a decent following, we'll look at a print publication somewhere down the line. I'll also be using this blog to post excerpts!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35f5808f-4e52-43f9-9749-12bcdca6e8e4.jpg)
 
 The title of the novel is The Humming Blade, a fantasy adventure for people of all ages. It is a novel about many things, but primarily it is the story of Wyatt Arden, a farm-grown young man in his late teens with a great deal of unused talent. At the outset of the novel, he is filled with conflicting desires to both remain at home and to venture out into the world seeking adventure. His best friend, Desmond, has already joined the Imperial Army, something that the two of them had originally planned to do together. Desmond was unable to justify continuing his life at home, however, and couldn't wait any longer for Wyatt to join him. So Wyatt must say goodbye to his friend and confront his conflicting feelings about his lot in life. 
 
