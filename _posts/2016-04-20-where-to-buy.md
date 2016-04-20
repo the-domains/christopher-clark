@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Softcover
-datePublished: '2016-04-20T03:28:24.072Z'
-dateModified: '2016-04-20T03:27:48.419Z'
+datePublished: '2016-04-20T03:29:46.996Z'
+dateModified: '2016-04-20T03:28:52.766Z'
 title: ''
 author:
   - name: ''
