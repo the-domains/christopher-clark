@@ -2,21 +2,28 @@
     <channel>
         <title><![CDATA[Official site of fantasy author Christopher Clark]]></title>
         <description><![CDATA[Official site of fantasy author Christopher Clark]]></description>
-        <link>https://thegrid.ai/christopher-clark/</link>
+        <link>http://www.christopher-clark.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 01:50:07 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/christopher-clark/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 02:07:07 GMT</lastBuildDate>
+        <atom:link href="http://www.christopher-clark.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About the First Book]]></title>
+            <description><![CDATA[<p>Aah, the book. Everyone wants to know about the book. Well, I'll tell you what I can, straight from the source. The first thing that you should know is that, well, it's not out yet. But soon! I'm planning on releasing it independently to Amazon and other ebook publishers. Once I have a decent following, we'll look at a print publication somewhere down the line. I'll also be using this blog to post excerpts! </p>]]></description>
+            <link>http://www.christopher-clark.net/about-the-first-book/index.html</link>
+            <guid isPermaLink="false">b2a217c8-8718-4be8-9dcb-47d91d37077f</guid>
+            <pubDate>Wed, 20 Apr 2016 02:07:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About the Author]]></title>
             <description><![CDATA[<p>I'm Chris. I write books, but that's really only a small part of it.</p>]]></description>
-            <link>https://thegrid.ai/christopher-clark/about-the-author/index.html</link>
+            <link>http://www.christopher-clark.net/about-the-author/index.html</link>
             <guid isPermaLink="false">7dac55ce-c47b-40cb-8fc5-431f2c52135a</guid>
             <pubDate>Wed, 20 Apr 2016 01:49:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[First Post!]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fea317dc-ec75-4c92-a14a-4c1085d0e513.jpg">]]></description>
-            <link>https://thegrid.ai/christopher-clark/first-post/index.html</link>
+            <link>http://www.christopher-clark.net/first-post/index.html</link>
             <guid isPermaLink="false">2617bc13-58ea-4350-857c-be1dfe967253</guid>
             <pubDate>Thu, 14 Apr 2016 17:51:14 GMT</pubDate>
         </item>
