@@ -2,28 +2,35 @@
     <channel>
         <title><![CDATA[Official site of fantasy author Christopher Clark]]></title>
         <description><![CDATA[Official site of fantasy author Christopher Clark]]></description>
-        <link>http://www.christopher-clark.net/</link>
+        <link>https://thegrid.ai/christopher-clark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 02:08:37 GMT</lastBuildDate>
-        <atom:link href="http://www.christopher-clark.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 02:27:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christopher-clark/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Special Thanks]]></title>
+            <description><![CDATA[<p>There are a number of people without whom The Humming Blade would not be a thing. These people range from my closest friends and family to complete strangers. Luckily, through the magic of Kickstarter, a novel was born. I promised these people that their names would live forever as tribute. However, there are apparently some questionable legalities with regard to publishing the names of a bunch of random people. So I've opted to host the list here, where these intrepid trailblazers will always remain immortalized.</p>]]></description>
+            <link>https://thegrid.ai/christopher-clark/special-thanks/index.html</link>
+            <guid isPermaLink="false">5d3be779-045a-435b-a7d7-e2cee5da9ace</guid>
+            <pubDate>Wed, 20 Apr 2016 02:27:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First Post!]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fea317dc-ec75-4c92-a14a-4c1085d0e513.jpg">]]></description>
-            <link>http://www.christopher-clark.net/first-post/index.html</link>
+            <link>https://thegrid.ai/christopher-clark/first-post/index.html</link>
             <guid isPermaLink="false">2617bc13-58ea-4350-857c-be1dfe967253</guid>
             <pubDate>Wed, 20 Apr 2016 02:08:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About the First Book]]></title>
             <description><![CDATA[<p>Aah, the book. Everyone wants to know about the book. Well, I'll tell you what I can, straight from the source. The first thing that you should know is that, well, it's not out yet. But soon! I'm planning on releasing it independently to Amazon and other ebook publishers. Once I have a decent following, we'll look at a print publication somewhere down the line. I'll also be using this blog to post excerpts! </p>]]></description>
-            <link>http://www.christopher-clark.net/about-the-first-book/index.html</link>
+            <link>https://thegrid.ai/christopher-clark/about-the-first-book/index.html</link>
             <guid isPermaLink="false">b2a217c8-8718-4be8-9dcb-47d91d37077f</guid>
             <pubDate>Wed, 20 Apr 2016 02:08:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About the Author]]></title>
             <description><![CDATA[<p>I'm Chris. I write books, but that's really only a small part of it.</p>]]></description>
-            <link>http://www.christopher-clark.net/about-the-author/index.html</link>
+            <link>https://thegrid.ai/christopher-clark/about-the-author/index.html</link>
             <guid isPermaLink="false">7dac55ce-c47b-40cb-8fc5-431f2c52135a</guid>
             <pubDate>Wed, 20 Apr 2016 01:49:33 GMT</pubDate>
         </item>
