@@ -4,7 +4,7 @@
         <description><![CDATA[Official site of fantasy author Christopher Clark]]></description>
         <link>https://thegrid.ai/christopher-clark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 01:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 01:22:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/christopher-clark/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Where to Buy]]></title>
@@ -47,13 +47,6 @@
             <link>https://thegrid.ai/christopher-clark/contact-me/index.html</link>
             <guid isPermaLink="false">03a7aa89-3127-4835-a409-759823b7e165</guid>
             <pubDate>Wed, 20 Apr 2016 03:08:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First Post!]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fea317dc-ec75-4c92-a14a-4c1085d0e513.jpg">]]></description>
-            <link>https://thegrid.ai/christopher-clark/first-post/index.html</link>
-            <guid isPermaLink="false">2617bc13-58ea-4350-857c-be1dfe967253</guid>
-            <pubDate>Wed, 20 Apr 2016 02:08:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
