@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "There are a number of people without whom The Humming Blade would not be a thing. These people range from my closest friends and family to complete strangers. Luckily, through the magic of Kickstarter, a novel was born. I promised these people that their names would live forever as tribute. However, there are apparently some questionable legalities with regard to publishing the names of a bunch of random people. So I've opted to host the list here, where these intrepid trailblazers will always remain immortalized."
-datePublished: '2016-04-23T01:11:35.208Z'
-dateModified: '2016-04-23T01:11:11.205Z'
+datePublished: '2016-04-23T01:12:03.801Z'
+dateModified: '2016-04-23T01:11:42.660Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-special-thanks.md
