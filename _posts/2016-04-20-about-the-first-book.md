@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "Aah, the book. Everyone wants to know about the book. Well, I'll tell you what I can, straight from the source. The first thing that you should know is that, well, it's not out yet. But soon! I'm planning on releasing it independently to Amazon and other ebook publishers. Once I have a decent following, we'll look at a print publication somewhere down the line. I'll also be using this blog to post excerpts!"
-datePublished: '2016-04-23T01:12:55.495Z'
-dateModified: '2016-04-23T01:12:12.721Z'
+description: "Aah, the book. Everyone wants to know about the book. Well, I'll tell you what I can, straight from the source. The first thing that you should know is that, well, it's not out yet. But soon! I'm planning on releasing it independently to Amazon and other ebook publishers. Once I have a decent following, we'll look at a print publication somewhere down the line. I'll also be using this blog to post excerpts! "
+datePublished: '2016-04-23T01:18:08.111Z'
+dateModified: '2016-04-23T01:18:05.792Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-about-the-first-book.md
