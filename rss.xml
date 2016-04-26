@@ -4,7 +4,7 @@
         <description><![CDATA[Official site of fantasy author Christopher Clark]]></description>
         <link>https://thegrid.ai/christopher-clark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 03:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 03:49:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/christopher-clark/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Where to Buy]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/christopher-clark/where-to-buy/index.html</link>
             <guid isPermaLink="false">5f947c29-158c-4dc0-a895-c28107de951b</guid>
             <pubDate>Wed, 20 Apr 2016 03:39:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About the Author]]></title>
+            <description><![CDATA[<p>I'm Chris. I write books, but that's really only a small part of it.</p>]]></description>
+            <link>https://thegrid.ai/christopher-clark/about-the-author/index.html</link>
+            <guid isPermaLink="false">7dac55ce-c47b-40cb-8fc5-431f2c52135a</guid>
+            <pubDate>Tue, 26 Apr 2016 03:49:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Humming Blade: Kickstarter Video]]></title>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/christopher-clark/special-thanks/index.html</link>
             <guid isPermaLink="false">5d3be779-045a-435b-a7d7-e2cee5da9ace</guid>
             <pubDate>Sat, 23 Apr 2016 01:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About the Author]]></title>
-            <description><![CDATA[<p>I'm Chris. I write books, but that's really only a small part of it.</p>]]></description>
-            <link>https://thegrid.ai/christopher-clark/about-the-author/index.html</link>
-            <guid isPermaLink="false">7dac55ce-c47b-40cb-8fc5-431f2c52135a</guid>
-            <pubDate>Wed, 20 Apr 2016 03:18:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact Me]]></title>
