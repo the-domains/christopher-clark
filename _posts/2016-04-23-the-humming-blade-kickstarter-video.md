@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=RkaNklH_sqo'
+hasPage: true
+inNav: true
 inLanguage: en
 keywords:
   - duration
@@ -16,8 +15,8 @@ keywords:
   - let
   - f450
 description: 'This '
-datePublished: '2016-04-23T01:20:51.640Z'
-dateModified: '2016-04-23T01:20:38.080Z'
+datePublished: '2016-04-26T03:10:38.611Z'
+dateModified: '2016-04-26T03:10:12.994Z'
 author:
   - name: Christopher Clark
     url: 'https://www.youtube.com/channel/UCNd-4dym3bpmuSMDGviGzpA'
@@ -70,6 +69,7 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
+url: the-humming-blade-kickstarter-video/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
