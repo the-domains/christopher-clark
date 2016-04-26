@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Aah, the book. Everyone wants to know about the book. Well, I'll tell you what I can, straight from the source. The first thing that you should know is that, well, it's not out yet. But soon! I'm planning on releasing it independently to Amazon and other ebook publishers. Once I have a decent following, we'll look at a print publication somewhere down the line. I'll also be using this blog to post excerpts!"
-datePublished: '2016-04-23T01:23:32.055Z'
-dateModified: '2016-04-23T01:23:28.683Z'
+datePublished: '2016-04-26T03:50:21.763Z'
+dateModified: '2016-04-26T03:50:18.267Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-about-the-first-book.md
