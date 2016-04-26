@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: "I'm Chris. I write books, but that's really only a small part of it."
-datePublished: '2016-04-20T03:18:25.117Z'
-dateModified: '2016-04-20T03:18:17.855Z'
+datePublished: '2016-04-26T03:49:58.550Z'
+dateModified: '2016-04-26T03:48:05.592Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-about-the-author.md
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: about-the-author/index.html
 _type: Article
 
