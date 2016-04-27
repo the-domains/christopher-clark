@@ -1,13 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: 'Follow me on Twitter!'
-datePublished: '2016-04-20T03:08:55.362Z'
-dateModified: '2016-04-20T03:07:04.053Z'
+datePublished: '2016-04-27T03:35:48.474Z'
+dateModified: '2016-04-27T03:35:01.554Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-contact-me.md
@@ -18,8 +17,9 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: contact-me/index.html
-_type: Article
+_type: WebPage
 
 ---
 [Follow me on Twitter!][0]
