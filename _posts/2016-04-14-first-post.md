@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'This is the first post on the new site for Christopher Clark! Here you will find information about his debut novel, The Humming Blade, as well as information about his YouTube channel.'
-datePublished: '2016-04-23T01:22:31.573Z'
-dateModified: '2016-04-23T01:20:51.161Z'
+datePublished: '2016-04-27T03:34:25.417Z'
+dateModified: '2016-04-27T03:33:52.774Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-first-post.md
