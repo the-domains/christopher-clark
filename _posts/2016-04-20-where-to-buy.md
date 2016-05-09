@@ -3,23 +3,22 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
 description: Softcover
-datePublished: '2016-04-20T03:39:26.813Z'
-dateModified: '2016-04-20T03:39:23.408Z'
+datePublished: '2016-05-09T03:53:23.218Z'
+dateModified: '2016-05-09T03:53:14.232Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-20-where-to-buy.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: true
 url: where-to-buy/index.html
 _type: Article
 
