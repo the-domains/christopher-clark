@@ -15,8 +15,8 @@ keywords:
   - let
   - f450
 description: 'This '
-datePublished: '2016-04-26T03:47:38.459Z'
-dateModified: '2016-04-26T03:10:47.228Z'
+datePublished: '2016-05-09T04:12:24.138Z'
+dateModified: '2016-05-09T04:12:22.413Z'
 author:
   - name: Christopher Clark
     url: 'https://www.youtube.com/channel/UCNd-4dym3bpmuSMDGviGzpA'
@@ -61,7 +61,6 @@ app_links:
     type: ios
 title: 'The Humming Blade: Kickstarter Video'
 sourcePath: _posts/2016-04-23-the-humming-blade-kickstarter-video.md
-published: true
 authors: []
 publisher:
   name: YouTube
