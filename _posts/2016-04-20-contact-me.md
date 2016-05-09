@@ -5,12 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Follow me on Twitter!'
-datePublished: '2016-04-27T03:37:55.645Z'
-dateModified: '2016-04-27T03:35:57.510Z'
+datePublished: '2016-05-09T04:02:36.418Z'
+dateModified: '2016-05-09T03:53:55.667Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-contact-me.md
-published: true
 authors: []
 publisher:
   name: null
